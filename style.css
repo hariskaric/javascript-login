@@ -2,8 +2,6 @@
 body {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
-  background-color: #21d4fd;
-  background-image: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,12 +12,12 @@ body {
   background-color: #fff;
   border-radius: 0.8rem;
   overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 10px rgba(95, 92, 92, 0.3);
   width: 40rem;
   max-width: 100%;
 }
 .header {
-  background-color: #b721ff;
+  background-color: #8e44ad;
   color: white;
   border-bottom: 1px solid #f0f0f0;
   padding: 2rem 4rem;
